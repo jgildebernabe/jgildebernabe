@@ -15,8 +15,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jgildebernabe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jgildebernabe" /></a></p><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgildebernabe&show_icons=true&locale=en&layout=compact" alt="jgildebernabe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgildebernabe&show_icons=true&locale=en" alt="jgildebernabe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe&" alt="jgildebernabe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgildebernabe&show_icons=true&locale=en" alt="jgildebernabe" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe&" alt="jgildebernabe" /></p>
