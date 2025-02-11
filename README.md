@@ -17,5 +17,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe&theme=dark">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe&theme=default">
+  <img alt="Shows Jordi's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe">
 </picture>
