@@ -16,6 +16,5 @@
 <p><a href="https://www.buymeacoffee.com/jgildebernabe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jgildebernabe" /></a></p><br><br><br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe&theme=dark">
-  <img alt="Shows Jordi's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=jgildebernabe">
+  <img alt="Shows Jordi's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=jgildebernabe&show_icons=true&theme=dark">
 </picture>
