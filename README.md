@@ -2,7 +2,7 @@
 <p align="center"><b>Software Engineer from Barcelona</b> · building products end to end, from mobile apps to cloud infrastructure</p>
 
 <p align="center">
-  <a href="https://localboss.app"><img src="https://img.shields.io/badge/Building-LOCALBOSS-2ea44f?style=flat-square" alt="Building LOCALBOSS" /></a>
+  <a href="https://cinquo.io"><img src="https://img.shields.io/badge/Building-Cinquo-2ea44f?style=flat-square" alt="Building Cinquo" /></a>
   <a href="https://x.com/jgildebernabe"><img src="https://img.shields.io/badge/X-@jgildebernabe-000000?style=flat-square&logo=x&logoColor=white" alt="X @jgildebernabe" /></a>
   <a href="https://www.linkedin.com/in/jordigildebernabe"><img src="https://img.shields.io/badge/LinkedIn-jordigildebernabe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -11,7 +11,7 @@
 
 ### 🚀 What I'm up to
 
-- 🔭 Currently building **[LOCALBOSS](https://localboss.app)**
+- 🔭 Currently building **[Cinquo](https://cinquo.io)**
 - 🌍 Based in Barcelona, Spain
 - 💬 Happy to chat about backend, mobile and cloud — reach out on [LinkedIn](https://www.linkedin.com/in/jordigildebernabe) or [X](https://x.com/jgildebernabe)
 
